@@ -29,8 +29,11 @@ Tools LIst:
   ./insall.sh
 ```
 
-#### Usage
-``` 
-awst --list-ec2 --region <region name> --profile <aws profile> 
+## Usage/Examples
 
+```bash
+awst --list-ec2 --region <region name> --profile <aws profile>
+```
+```bash
+awst --describe-ec2 --region <region name> --profile <aws profile> --id <instance-id>
 ```

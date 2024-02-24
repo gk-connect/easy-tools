@@ -17,7 +17,7 @@ Install my-project with bash
 ## Features
 
 - ```--list-ec2``` #lists all ec2 instances
-
+- ```--describe-ec2``` #describes ec2 instances
 
 
 ## Usage/Examples
@@ -25,4 +25,6 @@ Install my-project with bash
 ```bash
 awst --list-ec2 --region <region name> --profile <aws profile>
 ```
-
+```bash
+awst --describe-ec2 --region <region name> --profile <aws profile> --id <instance-id>
+```
