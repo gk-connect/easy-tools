@@ -1,8 +1,5 @@
 #!/Users/vogo/awst_env/bin/python3
-#!/var/root/awst_env/bin/python3
-#!/Users/vogo/awst_env/bin/python3
 
-#test
 import argparse
 
 try:
