@@ -7,7 +7,7 @@ Shorthand commands to read aws resource data.
 
 ## Installation
 
-Install my-project with npm
+Install my-project with bash
 
 ```bash
   chmod +x insall.sh
